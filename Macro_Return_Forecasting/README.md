@@ -32,7 +32,7 @@ This research project investigates the relationship between energy-market shocks
 
 **Tools:** Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, and Jupyter Notebook.
 
-- [Python analysis notebook](./Markdown%20%2B%20Notes2%281%29.ipynb) — data preparation, estimations, diagnostics, visualizations, and rolling forecasts.
+- [Python analysis notebook](./Markdown%20%2B%20Notes2.ipynb) — data preparation, estimations, diagnostics, visualizations, and rolling forecasts.
 - [Research report](./EMIF_Project_Report.pdf) — research motivation, methodology, interpretation, and limitations.
 
 To reproduce the notebook, install the Python dependencies and place `data_hec_projet_1.xlsx` in the same directory as the notebook. The code expects a worksheet named `Daily`.
