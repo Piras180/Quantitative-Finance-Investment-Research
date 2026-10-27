@@ -53,7 +53,7 @@ To run the notebook, install the Python dependencies and place the required sour
 
 ## Authors
 
-Academic group project by **Matteo Piras, Marco D'Amico, Roberto Berardi, and Tomas Papuga**.
+Academic group project by **Matteo Piras (piras_matteo@outlook.com), Marco D'Amico, Roberto Berardi, and Tomas Papuga**.
 
 **Full report:** [sustainable_asset_management.pdf](sustainable_asset_management.pdf)  
 **Python notebook:** [FINALCODE.ipynb](FINALCODE.ipynb)
