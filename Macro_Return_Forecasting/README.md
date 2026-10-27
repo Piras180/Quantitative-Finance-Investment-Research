@@ -44,4 +44,4 @@ jupyter notebook
 
 ## Authors
 
-Group project by **Matteo Piras, Marco D'Amico, and Roberto Berardi**.
+Group project by **Matteo Piras (piras_matteo@outlook.com), Marco D'Amico, and Roberto Berardi**.
