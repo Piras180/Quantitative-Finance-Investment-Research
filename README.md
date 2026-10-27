@@ -28,4 +28,4 @@ My interests lie in **investment strategies, quantitative research, portfolio co
 
 ---
 
-**Contact:** [piras_matteo@outlook.com](mailto:piras_matteo@outlook.com) | [Linkedin Profile](https://www.linkedin.com/in/matteo-piras-838013302/))
+**Contact:** [piras_matteo@outlook.com](mailto:piras_matteo@outlook.com) | [Linkedin Profile](https://www.linkedin.com/in/matteo-piras-838013302/)
