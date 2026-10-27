@@ -27,8 +27,8 @@ This research project examines how financial market risk evolved before and afte
 
 **Tools:** Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, and Jupyter Notebook.
 
-- [Python analysis notebook](./Notebook%281%29.ipynb) — data preparation, volatility estimation, dynamic correlations, regime tests, portfolio analysis, and charts.
-- [Research report](./EMIF_Report%282%29.pdf) — research motivation, empirical methodology, findings, and limitations.
+- [Python analysis notebook](./Notebook.ipynb) — data preparation, volatility estimation, dynamic correlations, regime tests, portfolio analysis, and charts.
+- [Research report](./EMIF_Report.pdf) — research motivation, empirical methodology, findings, and limitations.
 - `Figures/` and `Tables/` — output directories created by the notebook for generated charts and result tables.
 
 To reproduce the analysis, install the dependencies and place the project dataset (`Data.xlsx`) in the same directory as the notebook. The notebook uses this file rather than external data downloads.
